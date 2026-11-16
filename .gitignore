@@ -1,0 +1,21 @@
+# Секреты
+.env
+*.env
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Данные бота
+*.session
+*.db
+*.sqlite3
+logs/
+.DS_Store
+.idea/
+.vscode/
